@@ -1,0 +1,46 @@
+body{
+    background-color: cornflowerblue;
+}
+hr{
+   color: black;
+   background-color: black;
+   height: 1px;
+   border: 0;
+
+}
+
+#page-title ,.recipe-title{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-width: 5px;
+    border-color:black ;
+    background-color: grey;
+    width:fit-content;
+    margin-left: 45%;
+    border-radius: 3px;
+
+}
+.recipe-dest ,.recipe{
+    text-decoration: none;
+    text-decoration-style: none;
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+ 
+}
+
+.recipe-title{
+    font-size:50px;
+
+} 
+
+div {
+    text-align: center;
+    list-style-position:inside ;
+}
+div h2{
+    color: beige;
+}
